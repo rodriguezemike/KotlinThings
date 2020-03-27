@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Algs_ds</string>
+    <string-array name="sorts">
+        <item>Bubble Sort</item>
+        <item>Insertion Sort</item>
+        <item>Merge Sort</item>
+        <item>Selection Sort</item>
+    </string-array>
+    <string-array name="sorts_wikis">
+        <item>https://en.wikipedia.org/wiki/Bubble_sort</item>
+        <item>https://en.wikipedia.org/wiki/Insertion_sort</item>
+        <item>https://en.wikipedia.org/wiki/Merge_sort</item>
+        <item>https://en.wikipedia.org/wiki/Selection_sort</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
